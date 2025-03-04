@@ -17,6 +17,7 @@ Các plugin của chúng tôi không có liên kết, ủy quyền, chứng th�
 Plugin của chúng tôi là một công cụ nâng cao không chính thức cho Zalo Web, được thiết kế để cung cấp cho bạn các tính năng và tiện lợi bổ sung.
 
 Cảm ơn bạn đã sử dụng!
-![image](https://github.com/user-attachments/assets/61d9d4a8-482d-4eb6-980b-0f3e3dcab1fc)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dinhvanhiew)
+
 
 
