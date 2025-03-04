@@ -18,6 +18,7 @@ Plugin của chúng tôi là một công cụ nâng cao không chính thức cho
 
 Cảm ơn bạn đã sử dụng!
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-orange?style=flat-square&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/dinhvanhiew)
+![image](https://github.com/user-attachments/assets/71cfb35f-f57c-4021-8638-ac851fed23eb)
 
 
 
